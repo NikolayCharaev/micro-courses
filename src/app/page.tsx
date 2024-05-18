@@ -10,7 +10,9 @@ export default function Home() {
 
 
     Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias veniam facilis magnam perferendis ut expedita, quaerat rerum mollitia, ea tempora saepe cupiditate illum placeat. Eaque ut quibusdam quis explicabo sunt?
-    <Button>click me beach</Button>
+
+    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reprehenderit minima perferendis quis repudiandae ducimus nesciunt? Amet necessitatibus laudantium, quis debitis beatae facere laborum, sint iure sunt veniam natus praesentium quidem!
+    <Button>click me beach 123</Button>
   </>
   );
 }
